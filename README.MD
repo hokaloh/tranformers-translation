@@ -1,0 +1,1 @@
+build the transformers architecture from scratch for translation language using framework pytorch and dataset from huggingface 
